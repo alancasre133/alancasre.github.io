@@ -1,3 +1,4 @@
+# Computer Science
 
 ### Education:
   - degree: Bachelor of Science in Computer Science
