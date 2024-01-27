@@ -1,5 +1,5 @@
 
-# Education:
+Education:
   - degree: Bachelor of Science in Computer Science
     institution: Your University
     year: 2022
