@@ -1,4 +1,4 @@
-# Alan Axel Castro Resendiz.
+
 ### Education:
   - degree: Bachelor of Science in Computer Science
     institution: Your University
