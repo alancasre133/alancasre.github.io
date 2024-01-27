@@ -1,3 +1,5 @@
 title: Alan Axel Castro Reséndiz.
-theme: jekyll-remote-theme
 
+# logo:assets/img/image.png
+show_downloads: true
+theme: jekyll-remote-theme
