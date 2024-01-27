@@ -3,7 +3,7 @@
   **Institution:** Universidad Autónoma de San Luis Potosí  
   **Year:** 2020/08 - 2025/06  
 
-- **Degree:** Master of Technology in Software Engineering  
-  **Institution:** Your Graduate School
+- **Degree:** Certificate      
+  **Institution:** AI Lab School.  
   **Year:** 2024  
 
