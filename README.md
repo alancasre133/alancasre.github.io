@@ -1,6 +1,4 @@
-# Alan Axel Castro Resendiz.
-
-### Education:
+# Education:
   - degree: Bachelor of Science in Computer Science
     institution: Universidad Autónoma de San Luis Potosí
     year: 2020/08-2025-06
