@@ -1,5 +1,5 @@
 ### Alan Axel Castro Reséndiz.
-### Education:
+# Education:
   - degree: Bachelor of Science in Computer Science
     institution: Your University
     year: 2022
