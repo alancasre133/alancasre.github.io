@@ -3,9 +3,9 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Alan Axel Castro Reséndiz.
 education:
-   degree: Bachelor of Science in Computer Science
+  - degree: Bachelor of Science in Computer Science
     institution: Universidad Autónoma de San Luis Potosí
     Start Year: 2020/08-2025-06
-   degree: Master of Technology in Software Engineering
-    institution: Your Graduate School
-    year: 2024
+  - degree: Certificate
+    institution: AI Lab School
+    year: 2023/07-2024/07
