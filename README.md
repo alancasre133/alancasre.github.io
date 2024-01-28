@@ -49,4 +49,4 @@ using computer vision and image processing (Convolutional Neural Networks).
   - Implementation of Flutter with firebase to build the app for iOS and Android and use of HTTP methods to made WebScrapping.
   - Winner Application of Tulum Crypto Fest Hackathon 2023. 
 
-![SkinSkanLobby](/assets/img/HotelM.jpg) ![TALENTLAND](/assets/img/TulumCryptoM.jpg)
+![TulumCrypto](/assets/img/HotelM.jpg) ![Reward](/assets/img/TulumCryptoM.jpg)
