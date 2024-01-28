@@ -40,3 +40,5 @@ intelligence models with linear regression to recognize protein-coding reading f
 using computer vision and image processing (Convolutional Neural Networks).
   - Implementation of Flutter with firebase to build the app for iOS and Android.
   - Project Winner in 2023 as the most Innovative Technological solution in México by TalentLand.
+
+![SkinSkan](/assets/img/SkinSkan.png)
