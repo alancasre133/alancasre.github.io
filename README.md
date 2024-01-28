@@ -13,7 +13,7 @@ Neural Networks, Data Augmentation, Encoder-Decoder Architectures.
   
 # Experience
 
-### ***Software Engineer Intern at IPICYT (National Center of Supercomputing)***  ![IPICYT](/assets/img/IPICYTM.jpg)
+### ***Software Engineer Intern at IPICYT (National Center of Supercomputing)***  ![IPICYT](/assets/img/IPICYTMIN.jpg)
   **San Luis Potosí, México.**  
   **2024/01-present**  
   **Relevant Tasks**:
