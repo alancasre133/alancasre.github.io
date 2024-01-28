@@ -42,7 +42,7 @@ using computer vision and image processing (Convolutional Neural Networks).
 
 ![SkinSkanLobby](/assets/img/MOMENTMMM.jpg) ![TALENTLAND](/assets/img/REWARDD.jpg)
 
-### ***Room Reserve.*** ![SkinSkan](/assets/img/SkinSkan.png)  
+### ***Room Reserve.*** ![SkinSkan](/assets/img/RReserve.png)  
   **Reserve, Recommend, Receive. [Files and APK for android](https://drive.google.com/drive/folders/1n6acXsUD5JTbjom0oisLw-J49Skz67Ve?usp=share_link)**   
   **2023/05-2023/05.**  
   **Relevant Tasks.**:
