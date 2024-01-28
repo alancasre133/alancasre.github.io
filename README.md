@@ -43,7 +43,7 @@ using computer vision and image processing (Convolutional Neural Networks).
 ![SkinSkanLobby](/assets/img/MOMENTMMM.jpg) ![TALENTLAND](/assets/img/REWARDD.jpg)
 
 ### ***DeCaf.***
-  **Chatbot Designed to Assist People Operating Cryptocurrency Wallets. [GitHub Repository](https://github.com/alancasre133/Etherfuse) [Video](https://www.youtube.com/watch?v=VtULL8Cx6FU)**  
+  **Chatbot Designed to Assist People Operating Cryptocurrency Wallets. [GitHub Repository,](https://github.com/alancasre133/Etherfuse) [Video](https://www.youtube.com/watch?v=VtULL8Cx6FU)**  
   **2023/06-2023/06**  
   - Project Manager in the development of a chatbot that assists new users in the 
   world of cryptocurrencies with account operations and technical support.  
@@ -61,5 +61,13 @@ using computer vision and image processing (Convolutional Neural Networks).
   - Winner Application of Tulum Crypto Fest Hackathon 2023. 
 
 ![TulumCrypto](/assets/img/HotelM.jpg) ![Reward](/assets/img/TulumCryptoM.jpg)
+
+### ***Extracurricular Activities.***
+  **Studevs Cofounder**
+  **2023/04-present**
+  - Co-founder of a computer science club, where we share resources, organize talks, trips, projects, and events that benefit the 
+students interested in computer science. We so far have about 100 members including several teachers and academics.
+  - We have been able to establish a productive relationship with the Engineering Faculty for monetary and exposure assistance, 
+as well as sponsorships with companies like the Solana Foundation and several local tech startups.
 
 
