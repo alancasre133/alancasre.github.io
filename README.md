@@ -46,7 +46,7 @@ using computer vision and image processing (Convolutional Neural Networks).
   **Reserve, Recommend, Receive. [Files and APK for android](https://drive.google.com/drive/folders/1n6acXsUD5JTbjom0oisLw-J49Skz67Ve?usp=share_link)**   
   **2023/05-2023/05.**  
   - Hotel reservation app tailored to the tourist sector in Tulum, featuring a rewards system for recommending visited hotels through cryptocurrencies.
-  - Implementation of Flutter with firebase to build the app for iOS and Android.
-  - Use of HTTP methods to make webScrapping from real data.
+  - Implementation of Flutter with firebase to build the app for iOS and Android and use of HTTP methods to made WebScrapping.
+  - Winner Application of Tulum Crypto Fest Hackathon 2023. 
 
 ![SkinSkanLobby](/assets/img/MOMENTMMM.jpg) ![TALENTLAND](/assets/img/REWARDD.jpg)
