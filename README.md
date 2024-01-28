@@ -19,3 +19,4 @@ Neural Networks, Data Augmentation, Encoder-Decoder Architectures.
   **Relevant Tasks**:
   - Work on client projects globally that have an impact on over 30 million people using the MERN 
 technology (MongoDB, Express, React, Node).
+  - Conducting meetings with clients to gather requirements.
