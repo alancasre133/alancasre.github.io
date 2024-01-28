@@ -45,10 +45,8 @@ using computer vision and image processing (Convolutional Neural Networks).
 ### ***Room Reserve.*** ![SkinSkan](/assets/img/RReserve.png)  
   **Reserve, Recommend, Receive. [Files and APK for android](https://drive.google.com/drive/folders/1n6acXsUD5JTbjom0oisLw-J49Skz67Ve?usp=share_link)**   
   **2023/05-2023/05.**  
-  **Relevant Tasks.**:
-  - Main head to develop an application to classify dangerous spots on the skin through images 
-using computer vision and image processing (Convolutional Neural Networks).
+  - Hotel reservation app tailored to the tourist sector in Tulum, featuring a rewards system for recommending visited hotels through cryptocurrencies.
   - Implementation of Flutter with firebase to build the app for iOS and Android.
-  - Project Winner in 2023 as the most Innovative Technological solution in México by TalentLand.
+  - Use of HTTP methods to make webScrapping from real data.
 
 ![SkinSkanLobby](/assets/img/MOMENTMMM.jpg) ![TALENTLAND](/assets/img/REWARDD.jpg)
