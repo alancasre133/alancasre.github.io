@@ -62,8 +62,8 @@ using computer vision and image processing (Convolutional Neural Networks).
 
 ![TulumCrypto](/assets/img/HotelM.jpg) ![Reward](/assets/img/TulumCryptoM.jpg)
 
-### ***Extracurricular Activities.***
-  **Studevs Cofounder**
+# ***Extracurricular Activities.***
+### **Studevs Cofounder**
   **2023/04-present**
   - Co-founder of a computer science club, where we share resources, organize talks, trips, projects, and events that benefit the 
 students interested in computer science. We so far have about 100 members including several teachers and academics.
