@@ -49,7 +49,10 @@ using computer vision and image processing (Convolutional Neural Networks).
   world of cryptocurrencies with account operations and technical support.  
   - Implementation of Natural Language Understanding using the ChatGPT API, as well as the 
     creation of a deductive knowledge base using Python.  
-  - Use of React and Node.js.  
+  - Use of React and Node.js.
+
+![Decaf](/assets/img/DecafM.jpg) ![TALENTLAND](/assets/img/DecafMM.jpg)
+
 ### ***Room Reserve.*** ![SkinSkan](/assets/img/RReserve.png)  
   **Reserve, Recommend, Receive. [Files and APK for android](https://drive.google.com/drive/folders/1n6acXsUD5JTbjom0oisLw-J49Skz67Ve?usp=share_link)**   
   **2023/05-2023/05.**  
