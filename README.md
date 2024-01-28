@@ -42,3 +42,14 @@ using computer vision and image processing (Convolutional Neural Networks).
   - Project Winner in 2023 as the most Innovative Technological solution in México by TalentLand.
 
 ![SkinSkanLobby](/assets/img/MOMENTMMM.jpg) ![TALENTLAND](/assets/img/REWARDD.jpg)
+
+### ***DeCaf.*** ![SkinSkan](/assets/img/SkinSkan.png)  
+  **Classification of Carcinogenic Spots on the Skin With Images. [Files and APK for android](https://drive.google.com/drive/folders/1n6acXsUD5JTbjom0oisLw-J49Skz67Ve?usp=share_link)**   
+  **2023/04-present.**  
+  **Relevant Tasks.**:
+  - Main head to develop an application to classify dangerous spots on the skin through images 
+using computer vision and image processing (Convolutional Neural Networks).
+  - Implementation of Flutter with firebase to build the app for iOS and Android.
+  - Project Winner in 2023 as the most Innovative Technological solution in México by TalentLand.
+
+![SkinSkanLobby](/assets/img/MOMENTMMM.jpg) ![TALENTLAND](/assets/img/REWARDD.jpg)
