@@ -32,7 +32,7 @@ intelligence models with linear regression to recognize protein-coding reading f
 
 # Projects.
 
-### ***SkinScan (Skin Cancer Segmentation and classification).***  ![SkinSkan](/assets/img/SkinSkan.jpg)
+### ***SkinScan (Skin Cancer Segmentation and classification).***  ![SkinSkan](/assets/img/SkinSkan.png)
   **Classification of Carcinogenic Spots on the Skin With Images**  
   **2023/04-present.**  
   **Relevant Tasks.**:
