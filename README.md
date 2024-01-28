@@ -31,3 +31,12 @@ reducing the time that doctors spend gathering information on viruses by 70%.
 intelligence models with linear regression to recognize protein-coding reading frames.
 
 # Projects.
+
+### ***SkinScan (Skin Cancer Segmentation and classification).***  ![IPICYT](/assets/img/IPICYTMIN.jpg)
+  **San Luis Potosí, México.**  
+  **2024/01-present.**  
+  **Relevant Tasks.**:
+  - Main head to develop an application to classify dangerous spots on the skin through images 
+using computer vision and image processing (Convolutional Neural Networks).
+  - Implementation of Flutter with firebase to build the app for iOS and Android.
+  - Project Winner in 2023 as the most Innovative Technological solution in México by TalentLand.
