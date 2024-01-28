@@ -44,7 +44,7 @@ using computer vision and image processing (Convolutional Neural Networks).
 
 ### ***DeCaf.***
   **Chatbot Designed to Assist People Operating Cryptocurrency Wallets. [GitHub Repository](https://github.com/alancasre133/Etherfuse) [Video](https://www.youtube.com/watch?v=VtULL8Cx6FU)**
-  **2023/06-2023/06**
+  **2023/06-2023/06**  
   - Project Manager in the development of a chatbot that assists new users in the 
   world of cryptocurrencies with account operations and technical support.  
   - Implementation of Natural Language Understanding using the ChatGPT API, as well as the 
