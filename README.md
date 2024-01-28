@@ -11,3 +11,6 @@ Bio inspired computation, Robot Programming and Computer Vision course.
 Neural Networks, Data Augmentation, Encoder-Decoder Architectures.
   
 # Experience
+
+**Software Engineer Intern at IPICYT (National Center of Supercomputing)**
+  
