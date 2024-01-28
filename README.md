@@ -32,9 +32,9 @@ intelligence models with linear regression to recognize protein-coding reading f
 
 # Projects.
 
-### ***SkinScan (Skin Cancer Segmentation and classification).***  ![IPICYT](/assets/img/IPICYTMIN.jpg)
-  **San Luis Potosí, México.**  
-  **2024/01-present.**  
+### ***SkinScan (Skin Cancer Segmentation and classification).***  ![SkinSkan](/assets/img/SkinSkan.jpg)
+  **Classification of Carcinogenic Spots on the Skin With Images**  
+  **2023/04-present.**  
   **Relevant Tasks.**:
   - Main head to develop an application to classify dangerous spots on the skin through images 
 using computer vision and image processing (Convolutional Neural Networks).
