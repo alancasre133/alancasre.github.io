@@ -35,7 +35,6 @@ intelligence models with linear regression to recognize protein-coding reading f
 ### ***SkinScan (Skin Cancer Segmentation and classification).*** ![SkinSkan](/assets/img/SkinSkan.png)  
   **Classification of Carcinogenic Spots on the Skin With Images. [video](https://www.youtube.com/watch?v=epS8nxu0Hcw&t=28s)**   
   **2023/04-present.**  
-  **Relevant Tasks.**:
   - Main head to develop an application to classify dangerous spots on the skin through images 
 using computer vision and image processing (Convolutional Neural Networks).
   - Implementation of Flutter with firebase to build the app for iOS and Android.
@@ -43,9 +42,9 @@ using computer vision and image processing (Convolutional Neural Networks).
 
 ![SkinSkanLobby](/assets/img/MOMENTMMM.jpg) ![TALENTLAND](/assets/img/REWARDD.jpg)
 
-### ***DeCaf.*** ![SkinSkan](/assets/img/SkinSkan.png)  
-  **Classification of Carcinogenic Spots on the Skin With Images. [Files and APK for android](https://drive.google.com/drive/folders/1n6acXsUD5JTbjom0oisLw-J49Skz67Ve?usp=share_link)**   
-  **2023/04-present.**  
+### ***Room Reserve.*** ![SkinSkan](/assets/img/SkinSkan.png)  
+  **Reserve, Recommend, Receive. [Files and APK for android](https://drive.google.com/drive/folders/1n6acXsUD5JTbjom0oisLw-J49Skz67Ve?usp=share_link)**   
+  **2023/05-2023/05.**  
   **Relevant Tasks.**:
   - Main head to develop an application to classify dangerous spots on the skin through images 
 using computer vision and image processing (Convolutional Neural Networks).
