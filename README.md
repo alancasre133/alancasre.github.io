@@ -21,7 +21,7 @@ Neural Networks, Data Augmentation, Encoder-Decoder Architectures.
 technology (MongoDB, Express, React, Node).
   - Conducting meetings with clients to gather requirements.
 
-### ***Software Engineer Intern at IPICYT (National Center of Supercomputing)***  ![CICSAB](/assets/img/CICSABM.png)
+### ***Research Intern at Center of Research in Health Sciences and Biomedicine (CICSAB).***  ![CICSAB](/assets/img/CICSABM.png)
   **San Luis Potosí, México.**  
   **2023/08-2024/01.**  
   **Relevant Tasks**:
