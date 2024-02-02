@@ -1,4 +1,4 @@
-### [![LinkedIn](/assets/img/Li.png)](https://www.linkedin.com/in/alan-axel-castro-resendiz-888b08235/) [![GitHub](/assets/img/Git.png)](https://github.com/alancasre133)
+### [![LinkedIn](/assets/img/Li.png)](https://www.linkedin.com/in/alan-axel-castro-resendiz-888b08235/) [![GitHub](/assets/img/Git.png)](https://github.com/alancasre133) [![Gmail](/assets/img/gnail.png)](alanaxelcastroresendiz@gmail.com)
 # Education.
 - **Institution:** Universidad Autónoma de San Luis Potosí.  
  **Degree:** Bachelor of Science in Computer Science.  
