@@ -1,4 +1,4 @@
-### [LinkedIn](https://www.linkedin.com/in/alan-axel-castro-resendiz-888b08235/)
+### [![IPICYT](/assets/img/Linked.png)](https://www.linkedin.com/in/alan-axel-castro-resendiz-888b08235/)
 # Education.
 - **Institution:** Universidad Autónoma de San Luis Potosí.  
  **Degree:** Bachelor of Science in Computer Science.  
