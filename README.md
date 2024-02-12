@@ -14,13 +14,7 @@ Neural Networks, Data Augmentation, Encoder-Decoder Architectures.
   
 # Experience.
 
-### ***Software Engineer Intern at IPICYT (National Center of Supercomputing).***  ![IPICYT](/assets/img/IPICYTMIN.jpg)
-  **San Luis Potosí, México.**  
-  **2024/01-present.**  
-  **Relevant Tasks.**:
-  - Work on client projects globally that have an impact on over 30 million people using the MERN 
-technology (MongoDB, Express, React, Node).
-  - Conducting meetings with clients to gather requirements.
+
 
 ### ***Research Intern at Center of Research in Health Sciences and Biomedicine (CICSAB).***  ![CICSAB](/assets/img/CICSABM.png)
   **San Luis Potosí, México.**  
