@@ -15,16 +15,16 @@ Neural Networks, Data Augmentation, Encoder-Decoder Architectures.
 # Experience.
 
 ### **Software Engineer Intern at IPICYT (National Center of Supercomputing).**  ![IPICYT](/assets/img/IPICYTMIN.jpg)
-  *San Luis Potosí, México.*  
-  *2024/01-present.*  
-  *Relevant Tasks.*:
+  **San Luis Potosí, México.**  
+  **2024/01-present.**  
+  **Relevant Tasks.**:
   - Develop an inventory control system for the CNS unit using JavaScript for general-purpose 
   function development, HTML, CSS, React, Node, and MongoDB for database management
   - Conducting meetings with clients to gather requirements.
 
 ### ***Research Intern at Center of Research in Health Sciences and Biomedicine (CICSAB).***  ![CICSAB](/assets/img/CICSABM.png)
   **San Luis Potosí, México.**  
-  **2023/08-2024/01.**  
+  **2023/08-2023/12**  
   **Relevant Tasks**:
   - Analyze virus genome sequences in genetics codes using python3,Pandas and Tensorflow, 
 reducing the time that doctors spend gathering information on viruses by 70%.
