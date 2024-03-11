@@ -2,7 +2,7 @@
 # Education.
 - **Institution:** Universidad Autónoma de San Luis Potosí.  
  **Degree:** Bachelor of Science in Computer Science.  
-  **Year:** 2020/08 - 2025/06.  
+  **Year:** 2020/08 - 2024/12.  
   **Relevant Coursework**: Data Structures and Algorithms, Computer Graphics, Machine Learning, 
 Bio inspired computation, Robot Programming and Computer Vision course.
  
